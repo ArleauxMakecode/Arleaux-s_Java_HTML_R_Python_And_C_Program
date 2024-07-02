@@ -2,7 +2,7 @@
 
 int main() {
     std::cout << "Hello, World!"
-    " From ArI";
+    " From ArI Softwares";
     return 0;
 }
 #include <iostream>
